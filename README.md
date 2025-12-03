@@ -4,9 +4,10 @@ Greenden is a modern, responsive plant-selling website built using HTML, Tailwin
 The site showcases plant products, customer reviews, and includes pages for Home, Products, and Contact.
 
 📸 Screenshots
-<img width="1902" height="971" alt="Contact Page" src="https://github.com/user-attachments/assets/f852633c-c291-4e4d-bee4-cf04bda551df" />
-<img width="1905" height="970" alt="Product Page" src="https://github.com/user-attachments/assets/156b7f35-99fe-480d-aaf4-1f7c63983fbd" />
 <img width="1901" height="972" alt="Home Page" src="https://github.com/user-attachments/assets/9cfb8192-ac80-4e14-9730-1bbb583562b5" />
+<img width="1905" height="970" alt="Product Page" src="https://github.com/user-attachments/assets/156b7f35-99fe-480d-aaf4-1f7c63983fbd" />
+<img width="1902" height="971" alt="Contact Page" src="https://github.com/user-attachments/assets/f852633c-c291-4e4d-bee4-cf04bda551df" />
+
 
 
 🚀 Features
