@@ -18,7 +18,7 @@
     <nav class="bg-green-100 p-3 flex justify-between shadow-xl sticky top-0 z-20">
       <h1 class="text-3xl font-semibold">Greenden</h1>
 
-      <svg
+      <svg id="menu-icon"
         xmlns="http://www.w3.org/2000/svg"
         fill="none"
         viewBox="0 0 24 24"
@@ -45,6 +45,29 @@
         </li>
       </ul>
     </nav>
+
+        <!-- Side Navbar -->
+
+    <section id="side-nav" class="bg-green-100 fixed p-2 z-20  top-0 transition-all duration-1000" style="width: 25%; height: 100vh; right: -25%;">
+
+      <div class="text-right p-2">
+         <p id="close-nav" class="inline cursor-pointer">X</p>
+      </div>
+
+            <ul class="flex flex-col gap-5 items-center md:flex " >
+        <li class="text-gray-600 hover:underline hover:text-black">
+          <a href="index.html">Home</a>
+        </li>
+        <li class="text-gray-600 hover:underline hover:text-black">
+          <a href="products.html">Products</a>
+        </li>
+        <li class="text-gray-600 hover:underline hover:text-black">
+          <a href="contacts.html">Contacts</a>
+        </li>
+      </ul>
+
+
+    </section>
 
     <!-- Contact Form -->
 
@@ -78,6 +101,8 @@
       <p class="text-justify mb-2">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione, quia?</p>
       <p>&copy;2025Greenden.com</p>
     </section>
+
+    <script src="contact.js"></script>
 
 </body>
 </html>
